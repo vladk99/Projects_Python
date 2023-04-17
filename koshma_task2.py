@@ -1,5 +1,5 @@
 # Multi-paradigm movie programming
-# Lab Work 2
+# Lab Work 2.
 # Koshma Vladyslav IKM-221a
 import math as m
 

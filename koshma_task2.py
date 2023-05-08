@@ -37,7 +37,4 @@ if __name__ == '__main__':
     print('Koshma Vladyslav', 'IKM-221a')
     y_incorrect=(-2 * m.log(5) - m.log(3) + m.log(2)) / (m.log(5) - m.log(19))
     print(y_incorrect)
-    #raw_input()
-    x = inp_variable('x', TEMPLATE)
-    #y = validate_inp('y', y_incorrect)
-    #z = inp_variable('z', TEMPLATE)
+    raw_input()

@@ -23,7 +23,6 @@ def inp_variable(values, template):
         except ValueError:
             print('Enter not number')
 
--
 def raw_input():
     x = inp_variable('x', TEMPLATE)
     y = validate_inp('y', y_incorrect)
